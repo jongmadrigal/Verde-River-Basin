@@ -1,5 +1,14 @@
-The following files and folders contain the WEAP21 water resources model of the Verde River basin of Mexico, developed by UNOPS in 2017. 
+***Water resources model of the Verde River basin, Mexico, under different scenarios***
+Authors: Jonatan Godinez Madrigal, based on the model developed by UNOPS (2017) ‘14. Análisis de Escenarios de Modelación’, in. UNOPS. Available at: http://201.131.6.193:8001/JaliscoSostenible/informe/.)
+Department of Integrate water systems and governance, IHE Delft.
+Corresponding author: Jonatan Godinez Madrigal
+Contact information: jonatan.poe@gmail.com
+
+***General introduction***
+The following files and folders contain water resources model of the Verde River basin of Mexico, developed by UNOPS in 2017. These models can be used by using WEAP21 software.
+It is being made public both to act as supplementary data for publications and the PhD thesis of Jonatan Godinez Madrigal and in order for other researchers to use this data in their own work.
 E4 is the fourth scenario, which contains the following key attributes: 105m dam height, 8.6 m³/s water allocation for Guadalajara, León and Los altos, and future water demand and climate change as determinants for water availability.
 E5 is the fifth scenario, which contains the following key attributes: 105m dam height, 7.4 m³/s water allocation for Guadalajara, León and Los altos, and fixed current water demand aas determinant for water availability.
 E6 is the sixth the fourth scenario, which contains the following key attributes: 105m dam height, 7.4 m³/s water allocation for Guadalajara, León and Los altos, and future water demand and climate change as determinants for water availability.
 These files need to be run by WEAP21 software to display the results and replicate the findings of the article "Understanding intractable water conflicts: The entanglement of politics and science in the decision-making on the Zapotillo dam project, Mexico.
+Should a problem arise in the running of the models, please contact me through jonatan.poe@gmail.com
