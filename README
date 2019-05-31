@@ -6,7 +6,11 @@ Contact information: jonatan.poe@gmail.com
 
 ***General introduction***
 The following files and folders contain water resources model of the Verde River basin of Mexico, developed by UNOPS in 2017. These models can be used by using WEAP21 software.
+
+***Purpose of the dataset***
 It is being made public both to act as supplementary data for publications and the PhD thesis of Jonatan Godinez Madrigal and in order for other researchers to use this data in their own work.
+
+***Data description***
 E4 is the fourth scenario, which contains the following key attributes: 105m dam height, 8.6 m³/s water allocation for Guadalajara, León and Los altos, and future water demand and climate change as determinants for water availability.
 E5 is the fifth scenario, which contains the following key attributes: 105m dam height, 7.4 m³/s water allocation for Guadalajara, León and Los altos, and fixed current water demand aas determinant for water availability.
 E6 is the sixth the fourth scenario, which contains the following key attributes: 105m dam height, 7.4 m³/s water allocation for Guadalajara, León and Los altos, and future water demand and climate change as determinants for water availability.
